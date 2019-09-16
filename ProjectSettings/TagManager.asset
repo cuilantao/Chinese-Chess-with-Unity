@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - redcar
+  - redhorse
+  - redguard
+  - redelephant
+  - redgeneral
+  - redguard1
+  - redelephant1
+  - redhorse1
+  - redcanon1
+  - redcanon
+  - redminion1
+  - redminion2
+  - redminion3
+  - redminion4
+  - redminion5
+  - redcar1
+  - blackminion1
+  - blackminion2
+  - blackminion3
+  - blackminion4
+  - blackminion5
+  - blackcanon
+  - blackcanon1
+  - blackcar
+  - blackhorse
+  - blackelephant
+  - blackguard
+  - blackgeneral
+  - blackguard1
+  - blackelephant1
+  - blackhorse1
+  - blackcar1
+  - target
+  - blackcar2
+  - redcar2
+  - blackhorse2
+  - redhorse2
+  - blackelephant2
+  - redelephant2
+  - blackguard2
+  - redguard2
+  - blackcanon2
+  - redcanon2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - image
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
